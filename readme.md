@@ -8,3 +8,6 @@ This is a simple Python rule-based chatbot that can respond to greetings, tell j
 - Tells jokes
 - Provides help and information
 - Case-insensitive matching
+
+## Project Screenshot
+![Chatbot Screenshot](screenshot.png)
